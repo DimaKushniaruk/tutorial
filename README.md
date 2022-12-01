@@ -1,2 +1,2 @@
-Python
+Python 3
 # tutorial
